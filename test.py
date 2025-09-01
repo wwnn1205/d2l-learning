@@ -37,3 +37,4 @@ for i in range(0,100):
         c[i][j] = a[i][j] + b[i][j]
 
 f'{timer.stop():.5f} sec'
+
